@@ -1,1 +1,1 @@
-Projects for the course Neural Signal and Signal Processing
+## Projects for the course Neural Signal and Signal Processing
